@@ -1,1 +1,1 @@
-# Math-Operations-Game
+# Math Operations Game
